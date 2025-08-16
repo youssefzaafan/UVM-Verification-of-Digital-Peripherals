@@ -16,42 +16,42 @@ Each project demonstrates:
 ### 1. [Verification-of-SPI-Memory](#)
 UVM-based testbench for verifying **Serial Peripheral Interface (SPI) memory** operations.  
 Focuses on **read/write transactions**, protocol timing, and functional coverage.  
-➡️ [GitHub Link](PUT-YOUR-LINK-HERE)
+➡️ [GitHub Link](https://github.com/youssefzaafan/Verification-of-SPI-Memory)
 
 ---
 
 ### 2. [Verification-of-APB-RAM](#)
 Verification of **APB RAM** interface using UVM.  
 Validates **APB protocol compliance**, memory transactions, and data integrity.  
-➡️ [GitHub Link](PUT-YOUR-LINK-HERE)
+➡️ [GitHub Link](https://github.com/youssefzaafan/Verification-of-APB-RAM)
 
 ---
 
 ### 3. [Verification-of-I2C-Memory](#)
 UVM testbench for **I2C memory device**.  
 Covers **multi-master/slave interactions**, protocol timing, and error handling scenarios.  
-➡️ [GitHub Link](PUT-YOUR-LINK-HERE)
+➡️ [GitHub Link](https://github.com/youssefzaafan/Verification-of-I2C-Memory)
 
 ---
 
 ### 4. [Verification-of-UART-Protocol](#)
 Verification of **UART protocol** transmitter and receiver.  
 Ensures **baud rate accuracy**, start/stop bits, parity checks, and data framing.  
-➡️ [GitHub Link](PUT-YOUR-LINK-HERE)
+➡️ [GitHub Link](https://github.com/youssefzaafan/Verification-of-UART-Protocol)
 
 ---
 
 ### 5. [Verification-of-Sequential-Adder](#)
 UVM testbench for a **Sequential Adder** design.  
 Checks **state-machine functionality**, handling of carry bits, and correctness of sequential addition.  
-➡️ [GitHub Link](PUT-YOUR-LINK-HERE)
+➡️ [GitHub Link](https://github.com/youssefzaafan/Verification-of-Sequential-Adder)
 
 ---
 
 ### 6. [Verification-of-Combinational-Circuit-4-bit-Multiplier](#)
 Verification of a **4-bit Combinational Multiplier**.  
 Focuses on **functional correctness**, input space exploration, and coverage of multiplication cases.  
-➡️ [GitHub Link](PUT-YOUR-LINK-HERE)
+➡️ [GitHub Link](https://github.com/youssefzaafan/Verification-of-Combinational-Circuit-4-bit-Multiplier)
 
 ---
 
